@@ -3,6 +3,6 @@
     "builder": "nixpacks"
   },
   "deploy": {
-    "startCommand": "python Server/server.py"
+    "startCommand": "python server.py"
   }
 }
